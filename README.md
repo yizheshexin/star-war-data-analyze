@@ -1,5 +1,5 @@
-# star-war-data-analyze
-A mission from dataquest
+# star-war-data-analyze.
+A mission from dataquest.
 Here is the official code of this mission:
 https://github.com/dataquestio/solutions/blob/master/Mission201Solution.ipynb
 But my code is a little different from the official one.Especially the DataFrame.map() and DataFrame.rename() part.
